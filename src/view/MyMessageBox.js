@@ -1,4 +1,4 @@
-Ext.define('Test.view.MyMessageBox', {
+Ext.define('Testpackage.view.MyMessageBox', {
     extend : 'Ext.window.Window',
     alias : 'widget.mymessagebox',
     

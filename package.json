@@ -2,7 +2,7 @@
     /**
      * The name of the package.
      */
-    "name": "Test",
+    "name": "Testpackage",
 
     "sencha": {
         /**
@@ -17,7 +17,7 @@
           * As a general rule, all classes that belong to this package should be under this namespace
           * if multiple namespaces are part of this package, set this to "".
           */
-         "namespace": "Test",
+         "namespace": "Testpackage",
 
         /**
          * The package type.
@@ -130,7 +130,7 @@
              */
 
         /*     
-            "namespace": "Test",
+            "namespace": "Testpackage",
 */
             /**
              * Comma-separated list of files or folders containing extra Sass. These
